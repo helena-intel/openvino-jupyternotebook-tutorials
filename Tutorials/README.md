@@ -137,14 +137,14 @@ The first thing we need to do is create a place for the Jupyter* Notebook tutori
 4. Change to the top of the git repository and check out correct version:
 	```bash
 	cd openvino-jupyternotebook-tutorials
-	git checkout openvino_toolkit_2020_4
+	git checkout openvino_toolkit_2021_3
 	```
 
 ### Launch JupyterLab*
 
 After the tutorials are downloaded, JupyterLab* may be started to run the Jupyter* Notebook tutorials.  Follow these steps to start JupyterLab*:
 
-1. Bring up a command shell prompt by opening a terminal (such as xterm) or selecting a terminal that is already open.
+1. Bring up a command shell prompt by opening a terminal (such as xterm) or selecting a terminal that is already open. 
 
 2. Change to the `jnb_tutorials/openvino-jupyternotebook-tutorials` directory, this will become the top directory view within JupyterLab*:
 
